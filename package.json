@@ -1,0 +1,23 @@
+{
+  "name": "09-challenge",
+  "version": "1.0.0",
+  "description": "Fabrizio Trevino's readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen.git"
+  },
+  "keywords": [
+    "Fabrizio",
+    "Readme"
+  ],
+  "author": "Fabrizio Trevino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen/issues"
+  },
+  "homepage": "https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen#readme"
+}
