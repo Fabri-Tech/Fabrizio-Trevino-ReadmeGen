@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen/issues"
   },
-  "homepage": "https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen#readme"
+  "homepage": "https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
