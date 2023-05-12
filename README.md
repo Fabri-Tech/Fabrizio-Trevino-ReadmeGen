@@ -17,10 +17,10 @@ This will prompt the user with a series of questions about their project, which 
 ## Contributing
 Contributions to this project are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-## Video Link
-https://drive.google.com/file/d/1inrEeXQkM-X-Z4gM60MtvLL6DL2Kmefe/view
+## [Video Link](https://drive.google.com/file/d/1inrEeXQkM-X-Z4gM60MtvLL6DL2Kmefe/view)
+
 
 ## GitHub Repositories
-Repository: [https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen]
+[Repository](https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen)
 
 
