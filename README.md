@@ -20,7 +20,7 @@ Contributions to this project are welcome. To contribute, please fork the reposi
 ## Links of the projecy
 
 ### [Video Link](https://drive.google.com/file/d/1inrEeXQkM-X-Z4gM60MtvLL6DL2Kmefe/view)
-### GitHub Repositories
-[Repository](https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen)
+### [Repository](https://github.com/Fabri-Tech/Fabrizio-Trevino-ReadmeGen)
+
 
 
